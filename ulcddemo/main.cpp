@@ -20,5 +20,5 @@ int main()
 
     uLCD.color(RED);
 
-    uLCD.triangle(120,100, 40,40,10,100,0x0000FF);
+    uLCD.rectangle(50,50, 100,90,0x0000FF);
 }
